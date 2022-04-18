@@ -1,0 +1,42 @@
+{
+  "name": "node-tdd-ts-algorithms",
+  "version": "1.0.0",
+  "description": "Algorithm practice with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write .",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamaDL/node-tdd-ts-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "JavaScript",
+    "node",
+    "TDD",
+    "TypeScrypt",
+    "Unit Tests"
+  ],
+  "author": "Dutto Luquez, Ramiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RamaDL/node-tdd-ts-algorithms/issues"
+  },
+  "homepage": "https://github.com/RamaDL/node-tdd-ts-algorithms#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "install": "^0.13.0",
+    "jest": "^27.5.1",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
+  }
+}
