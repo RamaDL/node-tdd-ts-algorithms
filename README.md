@@ -1,6 +1,6 @@
 # node-ts-tdd-algorithms
 
-TDD Algorithms practice with node
+TDD Algorithms practice with node and TypeScript
 
 # **Instruction**
 
