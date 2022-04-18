@@ -1,4 +1,4 @@
-# node-tdd-algorithms
+# node-ts-tdd-algorithms
 
 TDD Algorithms practice with node
 
